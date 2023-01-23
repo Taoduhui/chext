@@ -1,4 +1,4 @@
-package exts
+package chext
 
 import (
 	"strings"
